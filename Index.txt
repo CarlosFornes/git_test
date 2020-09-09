@@ -1,1 +1,1 @@
-Hola este es el repo de Carlos para probar GIT
+Hola este es el repo de Carlos para probar GIT. Modificando archivo necesitas actualizar la rama MASTER
